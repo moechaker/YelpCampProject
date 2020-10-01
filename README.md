@@ -9,3 +9,5 @@
 -Flash messages handle error and success messages to provide the visitor with feedback and improve UX.
 
 -Much of the code has been modularized into separate pieces, including routes, middleware (session authentication), and database models.
+
+I worked on this project before familiarizing myself with Git/GitHub so I did version control locally on my laptop.
